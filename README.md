@@ -1,4 +1,4 @@
-<h1>Autodidact Cybersecurity Student <br/>
+<h1>Cybersecurity Student <br/>
 <h2>🔐 Cybersecurity Projects</h2>
 
 - <b>Loading...</b>
